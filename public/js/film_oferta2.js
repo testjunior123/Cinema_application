@@ -1,0 +1,2 @@
+
+var film_desc = '{"title":"Nietykalni", "Category":"Gatunek: Dramat, Komedia", "desc":"Ta historia zdarzyła się naprawdę. Sparaliżowany na skutek wypadku milioner zatrudnia do pomocy i opieki młodego chłopaka z przedmieścia, który właśnie wyszedł z więzienia. Zderzenie dwóch skrajnie różnych światów daje początek szeregowi niewiarygodnych przygód i przyjaźni, która czyni ich... nietykalnymi.", "short_desc":"text"}';
